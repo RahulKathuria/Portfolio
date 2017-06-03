@@ -1,3 +1,10 @@
-.image1{
-	margin: 10dp
+body{
+	font-family: 'Barrio', cursive;
+	color: #7d97ad;
+}
+header{
+	margin-top: 20px;
+}
+h3{
+	text-align: center;
 }
