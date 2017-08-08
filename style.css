@@ -9,6 +9,10 @@ p{
 	text-align: center;
 	font-size: 30px;
 }
+h4.movie_name{
+	text-transform: uppercase;
+	text-align: center;
+}
 .header-text{
 	font-size: 50px;
 }
